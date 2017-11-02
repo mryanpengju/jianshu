@@ -1,0 +1,28 @@
+.detail-wrap{
+	width: 100%;
+}
+.detail{
+	width: 702px;
+	min-height: 300px;
+	margin: 0 auto;
+	padding-top: 56px;
+}
+
+.detail-title{
+	padding-top: 10px;
+	line-height: 123px;
+	font-size: 38px;
+	text-align: center;
+}
+.detail-img img{
+	width: 702px;
+	
+}
+.detail-wenzi{
+	padding: 20px;
+	text-align: center;
+	line-height: 30px;
+	text-indent: 30px;
+}
+
+

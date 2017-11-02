@@ -1,0 +1,46 @@
+.main-title-img img{
+	width: 80px;
+	height: 80px;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+}
+.main-title{
+	height: 108px;
+	width: 627px;
+	border-bottom: 1px solid #ddd;
+}
+.main-btn{
+	background: #fff;
+	color: #75d460;
+	border: 1px solid #75d460;
+}
+.main-btn:hover{
+	background: #d1f1cb;
+	border: 1px solid #75d460;
+}
+.main-cont{
+	width: 627px;
+	margin-top: 20px;
+	height: 43px;
+}
+.mc-img{
+	width: 34px;
+	height: 34px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.mc-img img{
+	width: 100%;
+	height: 100%;
+}
+.main-content{
+	border-bottom: 1px solid #ddd;
+	width: 627px;
+}
+.ant-layout.ant-layout-has-sider{
+	background: #fff;
+}
+.ant-layout-sider-children{
+	border-right: 1px solid #ddd;
+}
+	

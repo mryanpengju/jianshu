@@ -1,0 +1,77 @@
+.login-wrap{
+	width: 100%;
+	min-height: 750px;
+	background: #f1f1f1;
+}
+.login-logo img{
+	width: 104px;
+	height: 50px;
+	position: fixed;
+	left: 50px;
+	top: 50px;
+}
+.login{
+	width: 404px;
+	min-height: 300px;
+	background: #fff;
+	margin: 0 auto;
+	position: absolute;
+	top: 50px;
+	left: 0;
+	right: 0;
+}
+.login-title{
+	padding-left: 133px;
+	padding-top: 61px;
+	padding-bottom: 45px;
+	overflow: hidden;
+}
+.login-title .regis-btn,.login-title .login-btn{
+	width: 58px;
+	height: 38px;
+	line-height: 38px;
+	font-size: 18px;
+	text-align: center;
+	font-weight: 900;
+}
+.dianb{
+	width: 37px;
+	font-size: 18px;
+	font-weight: 900;
+	text-align: center;
+}
+.login-title .regis-btn:hover{
+	border-bottom: 2px solid #ea6f5a;
+	color: #ea6f5a;
+}
+.login-title .login-btn:hover{
+	border-bottom: 2px solid #ea6f5a;
+	color: #ea6f5a;
+}
+.login-title .login-btn{
+	border-bottom: 2px solid #ea6f5a;
+	color: #ea6f5a;
+	cursor: pointer;
+}
+.login-title .regis-btn{
+	color: #969696;
+	cursor: pointer;
+}
+#components-form-demo-normal-login .login-form {
+  max-width: 300px;
+}
+#components-form-demo-normal-login .login-form-forgot {
+  float: right;
+}
+#components-form-demo-normal-login .login-form-button {
+  width: 100%;
+}
+.ant-input:not(.ant-input-disabled){
+	border: 1px solid #ddd;
+}
+.login-form-button{
+	width: 60%;
+	margin-left: 20%;
+	margin-top:20px;
+	
+}

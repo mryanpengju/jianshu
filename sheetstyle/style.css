@@ -1,0 +1,183 @@
+.headerwrap{
+	min-height: 55px;
+	width: 100%;
+	border-bottom: 1px solid #f0f0f0;
+	position: fixed;
+	left: 0;
+	top: 0;
+	z-index: 1000;
+	background: #fff;
+}
+.header-cont{
+	
+	margin: 0 auto;
+	height: 55px;
+	
+}
+.logo{
+	padding-top: 15px;
+	padding-left: 20px;
+	width: 168px;
+}
+.logo img{
+	width:57px;
+	height: 27px;
+}
+.header-nav{
+	overflow: hidden;
+}
+
+.header-nav li{
+	float: left;
+	text-align: center;
+	line-height: 55px;
+	font-size: 18px;
+	margin-left: 40px;
+	font-family:"inherit";
+}
+.header-nav li:first-child{
+	margin-left: 0;
+}
+.search-btn{
+	background: #fff;
+	border: 0;
+}
+.ant-select-selection__placeholder{
+	margin-top: 1px!important;
+}
+.ant-input:not(.ant-input-disabled){
+	border: 0;
+}
+.ant-input-affix-wrapper:hover .ant-input:not(.ant-input-disabled){
+	border: 1px;
+}
+.search-btn:hover{
+	background: #fff;
+}
+
+
+
+
+
+.header-right{
+	overflow: hidden;
+}
+.noShow div{
+	float: left;
+	margin-right: 20px;
+	padding-top: 9px;
+	cursor: pointer;
+}
+.noShow .writediv{
+	padding-top: 7px;
+}
+.regdiv:hover #register{
+	background: #ec6149;
+	color: #fff;
+}
+#login{
+	width: 80px;
+	height: 36px;
+	background: #fff;
+	font-size: 15px;
+	border: 0;
+}
+#register{
+	width: 80px;
+    height: 38px;
+    line-height: 24px;
+    border: 1px solid rgba(236,97,73,.7);
+    border-radius: 20px;
+    font-size: 15px;
+    color: #ea6f5a;
+    background-color: transparent;
+}
+#write{
+	width: 100px;
+    height: 40px;
+    margin-top: 6px;
+    margin-right: 12px;
+    line-height: 24px;
+    border: 0;
+    border-radius: 20px;
+    font-size: 15px;
+    color: #fff;
+    background-color: #ea6f5a;
+}
+.ant-dropdown-trigger{
+	margin-right: 60px;
+	height: 55px;
+	padding-top: 8px;
+	width: 86px;
+	float: left;
+}
+.himg{
+	width: 40px;
+	height: 40px;
+	background: #fff;
+	float: left;
+	margin-left: 15px;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.ant-dropdown-trigger i{
+	text-align: center;
+	line-height: 40px;
+	width: 20px;
+}
+.child{
+	margin-top: 56px;
+}
+/*轮播*/
+.box{
+				width: 945px;
+				height: 272px;
+				position: relative;
+				border-radius: 9px ;
+				margin: 30px auto;
+				overflow: hidden;
+			}
+			.box1{
+				
+				width: 630px;
+				height: 272px;
+				
+				float: left;
+			}
+			.box1 img{
+				width: 630px;
+				height: 272px;
+				
+			}
+			.box2{
+				
+				width: 315px;
+				height: 136px;
+				background: black;
+				float: left;
+			}
+			.box3{
+				
+				width: 315px;
+				height: 136px;
+				background: pink;
+				float: left;
+			}
+			.box2 img,.box3 img{
+				width: 315px;
+				height: 136px;
+			}
+			.right{
+				position: absolute;
+				right: 10px;
+				top:142px;
+				width: 30px;
+				height: 30px;
+			}
+			.swiper-button-prev{
+				width: 30px;
+				height: 30px;
+			}
+#write i{
+	color: #fff;
+}		

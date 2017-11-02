@@ -1,0 +1,98 @@
+body{
+	background:#fcfcfc;
+}
+
+.off{
+	font-size:0.28rem;
+	margin:0.63rem  6.64rem  1rem  0.27rem;
+	font-weight: bold;
+	color:#a7a7a7;
+}
+
+.userlogo{
+	height:0.8rem;
+	width:100%;
+	color:#e67c6e;
+	font-size:0.8rem;
+	text-align:center;
+	line-height:0.8rem;
+}
+
+.tab{
+	width:5.80rem;
+	height:2.58rem;
+	border:1px solid #d9d9d9;
+	border-radius:0.08rem;
+	margin:0.94rem auto 0.36rem;
+	background:#fff;
+}
+
+
+.tab li{
+	height:0.89rem;
+	border-bottom:1px solid #d9d9d9;
+	line-height:0.89rem;
+	
+	
+}
+
+.tab li span{
+	width:0.66rem;
+	display:block;
+	text-align:center;
+	float:left;
+	font-size:0.29rem;
+	
+}
+
+
+.tab li input{
+	width:5.00rem;
+	float:left;
+	padding-top:0.07rem;
+	height:0.66rem;
+}
+
+.btn{
+	width:5.80rem;
+	background:#9cd296;
+	color:#fff;
+	margin:0 auto;
+	height:0.84rem;
+	border-radius:0.08rem;
+	display:block;
+	font-size:0.26rem;
+}
+
+.logoarea{
+	text-align:center;
+	color:#b8b8b8;
+	margin:1.30rem auto  0.34rem;
+}
+
+#logo-pic-list{
+	width:100%;
+	height:1.07rem;
+	margin:0 auto;
+	
+	display:flex;
+	justify-content: center;
+	
+}
+
+#logo-pic-list li{
+	float:left;
+	width:1.23rem;
+	
+}
+
+#logo-pic-list li img{
+	height:1.00rem;
+	
+}
+
+.footer {
+	font-size:0.26rem;
+	margin-top:0.34rem;
+	text-align:center;
+}
